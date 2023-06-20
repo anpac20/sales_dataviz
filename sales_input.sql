@@ -15,8 +15,3 @@ WITH ( DATAFILETYPE = 'char',
  FIELDTERMINATOR = ',',
  FIRSTROW = 2,
    ROWTERMINATOR = '0x0a')
-
-
---- STORES
-
---- ITEMS
